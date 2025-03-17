@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Slackey&display=swap');
+
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 140px;
+}
+.box {
+    width: 250px;
+    height: 500px;
+   padding: 10px;
+   justify-content: space-around;
+   align-content: space-around;
+}
+.box1{
+    background-color:hsl(31, 77%, 52%) ;
+}
+.box2{
+    background-color:hsl(184, 100%, 22%) ;
+}
+.box3{
+    background-color: hsl(179, 100%, 13%);
+}
+h3{
+    color: #fff;
+    font-size: 27px;
+    font-family: "Lexend", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-weight: bold;
+
+
+}
+.btn{
+    padding: 7px;
+    background-color: #fff;
+    align-content: center;
+    border-radius: 15px;
+    margin-top: 60px;
+    width: 100px;
+}
+p{
+    color: #fff;
+}
+img{
+    margin-top: -30px;
+}
